@@ -1,5 +1,4 @@
 # minbert Assignment
-Test testx
 by Shuyan Zhou, Zhengbao Jiang, Ritam Dutt and Brendon Boldt
 
 This is an exercise in developing a minimalist version of BERT, part of Carnegie Mellon University's [CS11-711 Advanced NLP](http://phontron.com/class/anlp2021/index.html).
